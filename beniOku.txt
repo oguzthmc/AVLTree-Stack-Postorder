@@ -1,0 +1,8 @@
+Makefile yapımı için; ders videoları ve dokümanları haricinde, internetten izlediğim videoların linkini bu klasörde bulabilirsiniz.
+
+1-->https://www.youtube.com/watch?v=TQzS6L6zAs0 
+2-->https://www.youtube.com/watch?v=cehEkqJVqvc&t=1s
+3-->https://www.youtube.com/watch?v=xQia4yZABdQ&t=672s
+
+Kontrol paneline "mingw32-make" komutu yazıldığında proje derlenip çalışacaktır.
+ProgramController.cpp içerisinde okunan dosyanın adı değiştirilerek farklı inputlarla denenebilir.
